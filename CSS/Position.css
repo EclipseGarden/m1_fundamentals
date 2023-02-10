@@ -1,0 +1,23 @@
+#static {
+    position:static;
+}
+
+#fixed {
+    position:fixed;
+}
+
+#absolute {
+    position:relative;
+}
+
+#sticky {
+    position:sticky;
+}
+
+#relative {
+    position: relative;
+}
+
+h1 {
+    color: #eee;
+}

@@ -1,0 +1,13 @@
+.container {
+    height: 200px;
+    border: 1px solid;
+    display: flex;
+}
+
+.one,.two,.three {
+    background-color: cadetblue;
+    border: 1px solid;
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}

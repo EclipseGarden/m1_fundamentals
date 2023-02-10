@@ -1,0 +1,142 @@
+#pagetop {
+    background-color: #fff;
+    color: #000;
+    position: relative;
+    font-size: 18px;
+    width: 100%;
+    padding: 0;
+    letter-spacing: 1px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+#logo {
+    display: inline-block;
+    color: #04aa6d;
+}
+
+.topbuttons:hover {
+    background-color: #04aa6d;
+    color: #fff;
+}
+
+.topbuttons {
+    display: inline-block;
+    padding: 24px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    background-color: inherit;
+    text-decoration: none;
+    text-align: center;
+    color: inherit;
+    
+
+}
+
+.topbuttons2 {
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    
+    text-align: center;
+    white-space: nowrap;
+    border-radius: 25px;
+    color: inherit;
+    background-color: inherit;
+}
+
+#login {
+    background-color:#04aa6d;
+    color: #fff;
+}
+
+#login:hover {
+    background-color: #059862;
+}
+
+#createwebsite {
+    background-color: #fff4a3;
+    color: #000;
+}
+
+#createwebsite:hover {
+    background-color: #fff080;
+}
+
+#getcertified {
+    background-color: #ffc0c7;
+    color: #000;
+}
+
+#getcertified:hover {
+    background-color: #ffb3bb;
+}
+
+#pro {
+    background-color: #282a35;
+    color: #fff;
+}
+
+#pro:hover {
+    background-color: #616161;
+}
+
+#websections {
+    background-color: #282a35;
+    color: #fff;
+    position: relative;
+    font-size: 17px;
+    width: 100%;
+    padding: 0;
+    letter-spacing: 1px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+}
+
+.webbutton {
+    vertical-align: middle;
+    overflow: hidden;
+    color: inherit;
+    background-color: inherit;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    text-align: center;
+
+}
+
+.webbutton:active {
+    background-color: #04aa6d;
+    color: #fff;
+}
+
+.webbutton:hover {
+    color: #fff;
+    background-color: #000;
+}
+
+#sidebar {
+    display: inline;
+    overflow: auto;
+    border: 1px;
+    width: 220px;
+    height: 100%;
+    padding: 3px 12px;
+    top: 118px;
+    position:fixed;
+    padding-bottom: 0;
+     }
+
+#sidebar h2 {
+    font-weight: bold;
+}
+
+#sidebar a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+}

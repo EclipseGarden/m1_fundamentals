@@ -1,0 +1,17 @@
+div {
+    border: 3px;
+    border-color: transparent;
+    border-width: 600px;
+    width: 600px;
+    height: 600px;
+    clear: right;
+}
+
+div img {
+    float: right;
+}
+
+div h4 {
+    font-weight: 100;
+    color: gray;
+}
